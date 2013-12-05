@@ -11,7 +11,7 @@ For your final project, you should create the following things:
     + At least one picture of your project
     + A link to your demo
 
-You will also give a presentation of your project in class.
+You will also give a short (15 minute) presentation of your project in class.
 
 How to turn in
 ==============
