@@ -3,8 +3,13 @@ CS558 Final Project
 For your final project, you should create the following things:
 
 * A GitHub repository containing the code for your project
-* A write up that explains what your project, how it works and what tools you used along the way
-* (If applicable) A web page that runs a demo of your project.  You can use [GitHub pages for this](https://help.github.com/articles/creating-project-pages-manually).
+* A web page that runs a demo of your project.  You can use [GitHub pages for this](https://help.github.com/articles/creating-project-pages-manually).
+* A write up that explains that explains:
+    + What your project is
+    + How to use it
+    + What tools you used
+    + Has at least one picture of your project
+    + A link to your demo
 
 You will also give a presentation of your project in class.
 
