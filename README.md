@@ -8,7 +8,7 @@ For your final project, you should create the following things:
     + What your project is
     + How to use it
     + What tools you used
-    + Has at least one picture of your project
+    + At least one picture of your project
     + A link to your demo
 
 You will also give a presentation of your project in class.
