@@ -17,14 +17,11 @@ How to turn in
 ==============
 Fork this repository and add a link to your GitHub repository below this item
 
-Projects
-========
+Sample Projects
+===============
 
 ### [hermite-curve-collision-detection](https://github.com/melanz/hermite-curve-collision-detection)
 Hermite curve collision detection using nonlinear optimization for use with Absolute Nodal Coordinate Formulation (ANCF).
 
 ### [Freeze-Tag-Problem: Awakening a Robot Swarm](https://github.com/mdoescher/freezetag)
 This is a simulation of several approximation algorithms to the freeze-tag problem.  http://mdoescher.github.io/freezetag/
-
-### [Your project](https://github.com/yourname/yourpoject)
-A short description of what it does
